@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edulves.
 - 👀 I’m interested in learning about git, github and web development.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C# | DotNet | Entity Framework | SQL: SQLserver; MySQL; MONGODB.
 
 
 <!---
