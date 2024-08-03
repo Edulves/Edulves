@@ -25,4 +25,6 @@ Para entrar em contato comigo, por favor, envie uma mensagem através das _issue
 ---
 
 Este é um espaço de crescimento e aprendizado contínuo. Agradeço a todos que acompanham e apoiam minha jornada em engenharia de software.
+
+
 [![roadmap.sh](https://roadmap.sh/card/tall/66aea31a19ba71f57b4e23ff?variant=dark&roadmaps=backend)](https://roadmap.sh)
