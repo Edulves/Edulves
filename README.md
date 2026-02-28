@@ -5,86 +5,86 @@ I design and build scalable, maintainable, and well-structured applications foll
 
 My background combines solid academic training in Software Engineering with hands-on experience optimizing real-world business processes through automation and system development.
 
-💼 Professional Experience
+#💼 Professional Experience
 
 3 years of experience in the commercial sector, applying programming to improve operational efficiency and decision-making and 2.5 year of experience as a backend dev working wih .NET.
 
 Key contributions:
 
-Automated order analysis workflows, significantly reducing manual effort
+ - Automated order analysis workflows, significantly reducing manual effort
 
-Built data consolidation pipelines using Power Query and VBA
+ - Built data consolidation pipelines using Power Query and VBA
 
-Developed internal desktop applications to streamline document processing
+ - Developed internal desktop applications to streamline document processing
 
-Implemented reporting automation that supported strategic business decisions
+ - Implemented reporting automation that supported strategic business decisions
 
 This experience strengthened my analytical thinking, problem-solving skills, and ability to translate business requirements into technical solutions.
 
 🧠 Technical Expertise
 Backend Development
 
-C#
+ - C#
 
-.NET / ASP.NET Core
+ - .NET / ASP.NET Core
 
-RESTful API design and implementation
+ - RESTful API design and implementation
 
-Entity Framework
+ - Entity Framework
 
-SQL & relational database modeling
+ - SQL & relational database modeling
 
-Architecture & Code Quality
+ - Architecture & Code Quality
 
-SOLID principles
+ - SOLID principles
 
-Clean Architecture
+ - Clean Architecture
 
-Layered architecture (Controller, Service, Domain separation)
+ - Layered architecture (Controller, Service, Domain separation)
 
-Repository Pattern
+ - Repository Pattern
 
-Dependency Injection
+ - Dependency Injection
 
-Maintainability and scalability-focused design
+ - Maintainability and scalability-focused design
 
-Engineering Mindset
+ - Engineering Mindset
 
-Clean and readable code
+ - Clean and readable code
 
-Separation of concerns
+ - Separation of concerns
 
-Performance awareness
+ - Performance awareness
 
-Continuous improvement
+ - Continuous improvement
 
-Strong analytical reasoning
+ - Strong analytical reasoning
 
 📂 What You’ll Find Here
 
-This GitHub showcases:
+ - This GitHub showcases:
 
-Backend-focused projects built with ASP.NET Core
+ - Backend-focused projects built with ASP.NET Core
 
-REST API implementations
+ - REST API implementations
 
-Architecture-driven applications
+ - Architecture-driven applications
 
-Real-world problem-solving solutions
+ - Real-world problem-solving solutions
 
-Continuous technical evolution
+ - Continuous technical evolution
 
 Each repository reflects deliberate design decisions and structured engineering practices.
 
 🎯 Career Goals
 
-Contribute to backend-focused engineering teams
+ - Contribute to backend-focused engineering teams
 
-Work on scalable and high-impact systems
+ - Work on scalable and high-impact systems
 
-Deepen expertise in software architecture and distributed systems
+ - Deepen expertise in software architecture and distributed systems
 
-Evolve toward full-stack capabilities while maintaining backend excellence
+ - Evolve toward full-stack capabilities while maintaining backend excellence
 
 🤝 Let’s Connect
 
