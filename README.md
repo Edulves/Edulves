@@ -7,7 +7,7 @@ My background combines solid academic training in Software Engineering with hand
 
 # 💼 Professional Experience
 
-** 3 years of experience in the commercial sector **, applying programming to improve operational efficiency and decision-making and ** 2.5 year of experience as a backend developer ** working wih .NET.
+**3 years of experience in the commercial sector**, applying programming to improve operational efficiency and decision-making and **2.5 year of experience as a backend developer** working wih .NET.
 
 Key contributions:
 
@@ -21,8 +21,8 @@ Key contributions:
 
 This experience strengthened my analytical thinking, problem-solving skills, and ability to translate business requirements into technical solutions.
 
-🧠 Technical Expertise
-Backend Development
+## 🧠 Technical Expertise
+## Backend Development
 
  - C#
 
@@ -34,7 +34,7 @@ Backend Development
 
  - SQL & relational database modeling
 
- - Architecture & Code Quality
+## Architecture & Code Quality
 
  - SOLID principles
 
@@ -48,7 +48,7 @@ Backend Development
 
  - Maintainability and scalability-focused design
 
- - Engineering Mindset
+## Engineering Mindset
 
  - Clean and readable code
 
@@ -60,9 +60,9 @@ Backend Development
 
  - Strong analytical reasoning
 
-📂 What You’ll Find Here
+## 📂 What You’ll Find Here
 
- - This GitHub showcases:
+This GitHub showcases:
 
  - Backend-focused projects built with ASP.NET Core
 
@@ -76,7 +76,7 @@ Backend Development
 
 Each repository reflects deliberate design decisions and structured engineering practices.
 
-🎯 Career Goals
+## 🎯 Career Goals
 
  - Contribute to backend-focused engineering teams
 
@@ -86,7 +86,7 @@ Each repository reflects deliberate design decisions and structured engineering 
 
  - Evolve toward full-stack capabilities while maintaining backend excellence
 
-🤝 Let’s Connect
+## 🤝 Let’s Connect
 
 I’m open to:
 
@@ -94,7 +94,7 @@ I’m open to:
 
  - Technical discussions
 
-Collaboration on challenging projects
+ - Collaboration on challenging projects
 
 📎 LinkedIn:
 https://www.linkedin.com/in/eduardo-alves-palmeira-da-silva-205bb81b8/
