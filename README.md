@@ -1,27 +1,102 @@
-# Estudante de Engenharia de Software
+##👨‍💻🚀 Software Engineer | Backend Developer | C# | .NET
 
-## 🌱 Sobre Mim
+Software Engineer with a strong focus on backend development using C# and .NET.
+I design and build scalable, maintainable, and well-structured applications following modern software architecture principles and industry best practices.
 
-Sou um estudante de **Engenharia de Software** com foco em desenvolvimento backend utilizando a linguagem **C#** e a plataforma **.NET**. Este repositório reflete meu aprendizado e progresso na área.
+My background combines solid academic training in Software Engineering with hands-on experience optimizing real-world business processes through automation and system development.
 
-## Objetivos
+💼 Professional Experience
 
-- Aprofundar conhecimentos em **C#**, **.NET** e **SQL**.
-- Desenvolver projetos práticos que demonstrem minhas habilidades de backend.
-- Colaborar com outros desenvolvedores e aprender com a comunidade.
+3 years of experience in the commercial sector, applying programming to improve operational efficiency and decision-making and 2.5 year of experience as a backend dev working wih .NET.
 
-## Projetos
+Key contributions:
 
-Aqui, você encontrará uma variedade de projetos que estou desenvolvendo como parte do meu currículo de desenvolvedor. Cada projeto é uma oportunidade de aplicar teorias em situações práticas e resolver problemas reais.
+Automated order analysis workflows, significantly reducing manual effort
 
-## 🤝 Contribuições
+Built data consolidation pipelines using Power Query and VBA
 
-Estou aberto a contribuições e feedback sobre meus projetos. Se você tiver sugestões ou quiser colaborar, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
+Developed internal desktop applications to streamline document processing
 
-## 📫 Contato
+Implemented reporting automation that supported strategic business decisions
 
-Para entrar em contato comigo, por favor, envie uma mensagem através das _issues_ do repositório ou diretamente pelo GitHub ou ainda no meu linkedin **https://www.linkedin.com/in/eduardo-alves-palmeira-da-silva-205bb81b8/**.
+This experience strengthened my analytical thinking, problem-solving skills, and ability to translate business requirements into technical solutions.
 
----
+🧠 Technical Expertise
+Backend Development
 
-Este é um espaço de crescimento e aprendizado contínuo. Agradeço a todos que acompanham e apoiam minha jornada em engenharia de software.
+C#
+
+.NET / ASP.NET Core
+
+RESTful API design and implementation
+
+Entity Framework
+
+SQL & relational database modeling
+
+Architecture & Code Quality
+
+SOLID principles
+
+Clean Architecture
+
+Layered architecture (Controller, Service, Domain separation)
+
+Repository Pattern
+
+Dependency Injection
+
+Maintainability and scalability-focused design
+
+Engineering Mindset
+
+Clean and readable code
+
+Separation of concerns
+
+Performance awareness
+
+Continuous improvement
+
+Strong analytical reasoning
+
+📂 What You’ll Find Here
+
+This GitHub showcases:
+
+Backend-focused projects built with ASP.NET Core
+
+REST API implementations
+
+Architecture-driven applications
+
+Real-world problem-solving solutions
+
+Continuous technical evolution
+
+Each repository reflects deliberate design decisions and structured engineering practices.
+
+🎯 Career Goals
+
+Contribute to backend-focused engineering teams
+
+Work on scalable and high-impact systems
+
+Deepen expertise in software architecture and distributed systems
+
+Evolve toward full-stack capabilities while maintaining backend excellence
+
+🤝 Let’s Connect
+
+I’m open to:
+
+Backend engineering/dev opportunities
+
+Technical discussions
+
+Collaboration on challenging projects
+
+📎 LinkedIn:
+https://www.linkedin.com/in/eduardo-alves-palmeira-da-silva-205bb81b8/
+
+💡 I believe great software is built through clarity, structure, and thoughtful design. My focus is not just making things work — but making them sustainable, scalable, and maintainable.
