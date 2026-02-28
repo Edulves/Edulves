@@ -1,13 +1,13 @@
-##👨‍💻🚀 Software Engineer | Backend Developer | C# | .NET
+## 👨‍💻🚀 Software Engineer | Backend Developer | C# | .NET
 
 Software Engineer with a strong focus on backend development using C# and .NET.
 I design and build scalable, maintainable, and well-structured applications following modern software architecture principles and industry best practices.
 
 My background combines solid academic training in Software Engineering with hands-on experience optimizing real-world business processes through automation and system development.
 
-#💼 Professional Experience
+# 💼 Professional Experience
 
-3 years of experience in the commercial sector, applying programming to improve operational efficiency and decision-making and 2.5 year of experience as a backend dev working wih .NET.
+** 3 years of experience in the commercial sector **, applying programming to improve operational efficiency and decision-making and ** 2.5 year of experience as a backend developer ** working wih .NET.
 
 Key contributions:
 
