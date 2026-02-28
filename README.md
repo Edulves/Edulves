@@ -90,9 +90,9 @@ Each repository reflects deliberate design decisions and structured engineering 
 
 I’m open to:
 
-Backend engineering/dev opportunities
+ - Backend engineering/dev opportunities
 
-Technical discussions
+ - Technical discussions
 
 Collaboration on challenging projects
 
