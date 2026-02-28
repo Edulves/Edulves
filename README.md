@@ -7,7 +7,7 @@ My background combines solid academic training in Software Engineering with hand
 
 # 💼 Professional Experience
 
-**3 years of experience in the commercial sector**, applying programming to improve operational efficiency and decision-making and **2.5 year of experience as a backend developer** working wih .NET.
+**3 years of experience in the commercial sector**, applying programming to improve operational efficiency and decision-making, and **2.5 year of experience as a backend developer** working wih .NET.
 
 Key contributions:
 
